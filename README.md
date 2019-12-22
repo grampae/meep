@@ -9,8 +9,4 @@ See the following:
 https://mjlanders.com/2019/07/28/resource-consumption-dos-on-edgemax-v1-10-6/
 
 
-
-
-I have also created another tool called meep2 which allows you to define the cookie value.  This allows the tool to be used to test any cookie value regardless of architecture for resource consumption.
-
 A requirements.txt file has been added to this repository so 'pip3 install -r requirements.txt' should work.
