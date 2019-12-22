@@ -7,3 +7,8 @@ This is my first time using asyncio, if you see a more efficient way to do this 
 
 See the following:
 https://mjlanders.com/2019/07/28/resource-consumption-dos-on-edgemax-v1-10-6/
+
+
+
+
+I have also created another tool called meep2 which allows you to define the cookie value.  This allows the tool to be used to test any cookie value regardless of architecture for resource consumption.
